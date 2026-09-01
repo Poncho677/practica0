@@ -6,7 +6,7 @@
 * Quirino Roman Emmanuel
 ## Reflexión :thinking:
 #### 1. ¿Qué significa programar de forma estructurada?
-Programar de forma estructurada significa que organizamos el flujo del programa mediante estructuras de control haciendo el código más fácil de entender y mantener (modificar o actualizar fácilmente el código después sin tener que rehacer todo el programa.
+Programar de forma estructurada significa que organizamos el flujo del programa mediante estructuras de control haciendo el código más fácil de entender y mantener (modificar o actualizar fácilmente el código después sin tener que rehacer todo el programa).
 #### 2. ¿Cuáles son las tres estructuras fundamentales de control?
 Sus estructuras principales son:
 * Secuencia: instrucciones ejecutadas una después de otra.
