@@ -17,7 +17,8 @@ Sus estructuras principales son:
 #### 4. ¿Qué función tendría que modificarse si la calificación mínima aprobatoria cambiara?
 
 #### 5. ¿Qué diferencia conceptual observa entre una función y un método?
-
+Las funciones son bloques de código que realizan una tarea y pueden recibir parámetros y regresar un resultado. Los métodos son similares, pero están asociados a una clase u objeto y pueden trabajar con los datos o el estado de ese objeto.
 #### 6. ¿Qué representa un commit en Git?
-
+Un commit representa un registro de los cambios realizados en el proyecto en un momento determinado. Los cambios quedan guardados en el repositorio local y pueden consultarse posteriormente
 #### 7. ¿Por qué es preferible realizar varios commits pequeños en lugar de un solo commit al final?
+Es preferible realizar varios commits pequeños porque permiten llevar un mejor control de los cambios, identificar qué se modificó en cada etapa y regresar a una versión anterior si es necesario.
