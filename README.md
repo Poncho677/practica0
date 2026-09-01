@@ -13,9 +13,9 @@ Sus estructuras principales son:
 * Selección: elegir entre diferentes caminos.
 * Iteración: repetir instrucciones.
 #### 3. ¿Qué ventaja tuvo separar el programa en funciones?
-
+La ventaja que tuvo separar el programa en funciones es que el código se hizo mucho más sencillo de leer, lo que hace que también sea más sencillo que se puedan encontrar errores dentro del código.
 #### 4. ¿Qué función tendría que modificarse si la calificación mínima aprobatoria cambiara?
-
+La función que tendría que modificarse es la que se llama mostrarEstado, que es la que verifica que el promedio sea mayor o igual a 6 para ver si el aluno está aprobado o no.
 #### 5. ¿Qué diferencia conceptual observa entre una función y un método?
 Las funciones son bloques de código que realizan una tarea y pueden recibir parámetros y regresar un resultado. Los métodos son similares, pero están asociados a una clase u objeto y pueden trabajar con los datos o el estado de ese objeto.
 #### 6. ¿Qué representa un commit en Git?
