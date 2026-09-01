@@ -1,4 +1,4 @@
-# Practica-0. 
+# Practica-0. :smile:
 # Equipo: 2 y un infiltrado
 ## Integrantes:
 * Cruz Escobar Aarón
